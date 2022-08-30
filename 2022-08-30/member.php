@@ -11,9 +11,9 @@ define('DEBUG', true);
 
     echo "<h3> → 폼에 입력된 정보를 POST 방식으로 웹브라우저에 출력 ←</h3>";
     echo "<hr>";
-    echo "아이디......<b>$</b>$id<br />";
-    echo "비밀번호......<b>$</b>$pw<br />";
-    echo "이 름......<b>$</b>$name<br />";
-    echo "이메일......<b>$</b>$email1@$email2 <br />";
+    echo "아이디......<b>$id</b> <br />";
+    echo "비밀번호......<b>$pw</b> <br />";
+    echo "이 름......<b>$name</b> <br />";
+    echo "이메일......<b>$email1@$email2</b> <br />";
     echo "<hr>";
 ?>
