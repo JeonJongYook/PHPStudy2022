@@ -8,7 +8,7 @@
     <title>php에서 for문을 이용하여 게시판만들기</title>
 </head>
 <body>
-    <h1> > 게시판 목록 보기 </h1>
+    <h1> ▶ 게시판 목록 보기 </h1>
     <table border="1" width="600">
         <tr bgcolor="##ccccc" align="center">
             <th>번호</th>
