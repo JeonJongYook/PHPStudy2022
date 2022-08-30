@@ -7,7 +7,7 @@
         while($b <= 9)
         {
             $c = $a * $b;
-            echo "<tr><td align='center'>$a * $b=$c</td></tr>";
+            echo "<tr><td align='center'>$a * $b = $c</td></tr>";
             $b++;
         }
         echo "</table></body></html>";
